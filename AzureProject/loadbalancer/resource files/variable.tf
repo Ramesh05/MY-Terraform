@@ -15,6 +15,7 @@ variable "client_secret" {
   sensitive = true
 }
 
+
 variable "name" {
   type = string
 }
